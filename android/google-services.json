@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "82689921254",
+    "project_id": "vault-services-9a0f5",
+    "storage_bucket": "vault-services-9a0f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82689921254:android:9fff86f4efee86f1cf2b27",
+        "android_client_info": {
+          "package_name": "com.Vault_Securities.Vault_Services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82689921254-nvmo8r55cgl8ekm9p12n3a1eliltcdi6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Vault_Securities.Vault_Services",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "82689921254-l76p59pioqlvmsonmnbaau5g2o3t0q3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd8i7q50vyeyHmAYSFFVaZbgKnn4MmjTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82689921254-l76p59pioqlvmsonmnbaau5g2o3t0q3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
